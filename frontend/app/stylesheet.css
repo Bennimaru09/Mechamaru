@@ -1,0 +1,47 @@
+.app {
+    background-color: #5c7823;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.app .overlap-group-wrapper {
+    background-color: #5c7823;
+    width: 375px;
+    height: 812px;
+}
+
+.app .overlap-group {
+    position: relative;
+    height: 812px;
+    background-color: #415714;
+}
+
+.app .asset {
+    position: absolute;
+    width: 78px;
+    height: 78px;
+    top: 371px;
+    left: 148px;
+    object-fit: cover;
+}
+
+.app .home-indicator {
+    position: absolute;
+    width: 375px;
+    height: 34px;
+    top: 778px;
+    left: 0;
+    transform: rotate(-180deg);
+}
+
+.app .div {
+    position: relative;
+    width: 134px;
+    height: 5px;
+    top: 21px;
+    left: 121px;
+    background-color: #ffffff;
+    border-radius: 100px;
+}

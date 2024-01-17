@@ -1,0 +1,377 @@
+.detail {
+    background-color: #e7e8e5;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.detail .div {
+    background-color: #e7e8e5;
+    width: 375px;
+    height: 812px;
+    position: relative;
+}
+
+.detail .arrow-left {
+    position: absolute;
+    width: 9px;
+    height: 16px;
+    top: 64px;
+    left: 30px;
+}
+
+.detail .text-wrapper {
+    position: absolute;
+    height: 29px;
+    top: 57px;
+    left: 102px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #5c7823;
+    font-size: 20px;
+    letter-spacing: 0.26px;
+    line-height: 29px;
+    white-space: nowrap;
+}
+
+.detail .overlap {
+    position: absolute;
+    width: 315px;
+    height: 344px;
+    top: 122px;
+    left: 30px;
+    background-image: url(./img/rectangle-275.png);
+    background-size: 100% 100%;
+}
+
+.detail .overlap-group {
+    position: absolute;
+    width: 113px;
+    height: 54px;
+    top: 276px;
+    left: 26px;
+}
+
+.detail .text-wrapper-2 {
+    height: 29px;
+    top: 0;
+    left: 0;
+    font-weight: 700;
+    color: #e7e8e5;
+    font-size: 20px;
+    line-height: 29px;
+    white-space: nowrap;
+    position: absolute;
+    font-family: "Raleway-Bold", Helvetica;
+    letter-spacing: 0.26px;
+}
+
+.detail .text-wrapper-3 {
+    position: absolute;
+    height: 29px;
+    top: 25px;
+    left: 19px;
+    font-family: "Raleway-Medium", Helvetica;
+    font-weight: 500;
+    color: #e7e8e5;
+    font-size: 12px;
+    letter-spacing: 0.26px;
+    line-height: 29px;
+    white-space: nowrap;
+}
+
+.detail .location {
+    position: absolute;
+    width: 12px;
+    height: 14px;
+    top: 308px;
+    left: 28px;
+}
+
+.detail .rectangle {
+    position: absolute;
+    width: 20px;
+    height: 344px;
+    top: 122px;
+    left: 355px;
+}
+
+.detail .img {
+    position: absolute;
+    width: 20px;
+    height: 344px;
+    top: 122px;
+    left: 0;
+}
+
+.detail .know-the-background {
+    position: absolute;
+    height: 29px;
+    top: 494px;
+    left: 29px;
+    font-family: "Raleway-Bold", Helvetica;
+    font-weight: 700;
+    color: transparent;
+    font-size: 20px;
+    letter-spacing: 0.26px;
+    line-height: 29px;
+    white-space: nowrap;
+}
+
+.detail .span {
+    color: #2f2f2f;
+}
+
+.detail .text-wrapper-4 {
+    color: #5c7823;
+}
+
+.detail .sansevieria-better {
+    width: 315px;
+    height: 140px;
+    top: 526px;
+    left: 30px;
+    font-weight: 400;
+    color: transparent;
+    font-size: 12px;
+    text-align: justify;
+    line-height: 20px;
+    position: absolute;
+    font-family: "Raleway-Bold", Helvetica;
+    letter-spacing: 0.26px;
+}
+
+.detail .text-wrapper-5 {
+    font-weight: 700;
+    color: #5c7823;
+}
+
+.detail .text-wrapper-6 {
+    font-family: "Raleway-Medium", Helvetica;
+    font-weight: 500;
+    color: #2f2f2f;
+}
+
+.detail .group {
+    position: absolute;
+    width: 162px;
+    height: 38px;
+    top: 675px;
+    left: 108px;
+}
+
+.detail .overlap-group-wrapper {
+    position: absolute;
+    width: 69px;
+    height: 38px;
+    top: 0;
+    left: 0;
+}
+
+.detail .overlap-group-2 {
+    position: relative;
+    height: 38px;
+}
+
+.detail .rectangle-2 {
+    position: absolute;
+    width: 69px;
+    height: 29px;
+    top: 5px;
+    left: 0;
+    background-color: #e9e3e3;
+    border-radius: 14.27px;
+}
+
+.detail .group-2 {
+    position: absolute;
+    width: 56px;
+    height: 38px;
+    top: 0;
+    left: 3px;
+}
+
+.detail .star {
+    position: absolute;
+    width: 17px;
+    height: 16px;
+    top: 10px;
+    left: 11px;
+}
+
+.detail .text-wrapper-7 {
+    position: absolute;
+    height: 28px;
+    top: 5px;
+    left: 38px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 9.5px;
+    letter-spacing: 0.25px;
+    line-height: 27.6px;
+    white-space: nowrap;
+}
+
+.detail .overlap-wrapper {
+    position: absolute;
+    width: 75px;
+    height: 29px;
+    top: 5px;
+    left: 87px;
+}
+
+.detail .overlap-2 {
+    position: relative;
+    height: 29px;
+    border-radius: 14.27px;
+}
+
+.detail .group-wrapper {
+    position: absolute;
+    width: 75px;
+    height: 29px;
+    top: 0;
+    left: 0;
+    background-color: #eae4e4;
+    border-radius: 14.27px;
+}
+
+.detail .div-wrapper {
+    position: relative;
+    width: 25px;
+    height: 28px;
+    left: 41px;
+}
+
+.detail .text-wrapper-8 {
+    position: absolute;
+    height: 28px;
+    top: 0;
+    left: 0;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 9.5px;
+    letter-spacing: 0.25px;
+    line-height: 27.6px;
+    white-space: nowrap;
+}
+
+.detail .group-3 {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: 6px;
+    left: 14px;
+}
+
+.detail .overlap-group-3 {
+    position: relative;
+    width: 17px;
+    height: 17px;
+    top: -1px;
+    left: -1px;
+}
+
+.detail .ellipse {
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    top: 4px;
+    left: 4px;
+    border-radius: 4.33px;
+    border: 1.9px solid;
+    border-color: #668920;
+}
+
+.detail .group-4 {
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    top: 0;
+    left: 0;
+}
+
+.detail .overlap-3 {
+    position: absolute;
+    width: 112px;
+    height: 49px;
+    top: 727px;
+    left: 30px;
+    background-color: #5c7823;
+    border-radius: 10px;
+    box-shadow: 0px 4px 12.1px 1px #5c78234c;
+}
+
+.detail .vector {
+    position: absolute;
+    width: 18px;
+    height: 8px;
+    top: 15px;
+    left: 46px;
+}
+
+.detail .vector-2 {
+    position: absolute;
+    width: 20px;
+    height: 22px;
+    top: 14px;
+    left: 45px;
+}
+
+.detail .vector-3 {
+    position: absolute;
+    width: 11px;
+    height: 7px;
+    top: 28px;
+    left: 49px;
+}
+
+.detail .star-wrapper {
+    position: absolute;
+    width: 70px;
+    height: 49px;
+    top: 727px;
+    left: 152px;
+    border-radius: 10px;
+    border: 3px solid;
+    border-color: #5c7823;
+    box-shadow: 0px 4px 12px 1px #5c78234c;
+}
+
+.detail .star-2 {
+    position: absolute;
+    width: 20px;
+    height: 19px;
+    top: 12px;
+    left: 23px;
+}
+
+.detail .overlap-4 {
+    position: absolute;
+    width: 112px;
+    height: 49px;
+    top: 727px;
+    left: 233px;
+    background-color: #5c7823;
+    border-radius: 10px;
+    box-shadow: 0px 4px 12px 1px #5c78234c;
+}
+
+.detail .polygon {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 15px;
+    left: 46px;
+}
+
+.detail .vector-4 {
+    position: absolute;
+    width: 9px;
+    height: 12px;
+    top: 17px;
+    left: 52px;
+}
